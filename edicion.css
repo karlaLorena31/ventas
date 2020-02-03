@@ -1,0 +1,85 @@
+.menu{
+
+    width: 100%;
+    height: 50px;
+   
+    border-bottom-style: groove ;
+       
+}
+
+.pie{
+
+    width: 100%;
+    height: 75px;
+    background-color: red;
+    text-align: center;
+    color: white;
+    padding-top:5px ;
+    line-height: 2px;
+}
+
+
+.tabla{
+
+    border-collapse: collapse;
+
+
+}
+
+.bloq1{
+
+    width: 800px;
+    height: 460px;
+    background-color: rgba(215, 239, 247,0.4);
+    padding-bottom: 80px;
+
+
+}
+
+.bloq2{
+
+    width: 800px;
+    height: 460px;
+    
+    padding-bottom: 80px;
+
+}
+
+
+
+.bloq3{
+
+    width: 500px;
+    height: 460px;
+    background-color: rgba(215, 239, 247,0.4);
+    padding-bottom: 80px;
+
+}
+
+
+.computador{
+
+    width: 300px;    
+}
+
+.div1{
+
+    text-align: center;
+    line-height: 2px;
+    
+}
+
+.precio{
+
+    border-radius: 20% ;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    width: 80px;
+    height: 30px;
+    margin-left: 280px;
+
+
+
+}
