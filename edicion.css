@@ -10,13 +10,28 @@
 .pie{
 
     width: 100%;
-    height: 75px;
+    height: 80px;
     background-color: red;
+     
+    
+}
+
+.p1{ 
     text-align: center;
     color: white;
-    padding-top:5px ;
-    line-height: 2px;
+    padding-top: 10px ;
+    padding-left: 400px;
+   
+
 }
+
+.redes{
+
+    padding-left: 65px;
+    
+
+}
+
 
 
 .tabla{
@@ -28,8 +43,8 @@
 
 .bloq1{
 
-    width: 800px;
-    height: 460px;
+    width: 600px;
+    height: 50px;
     background-color: rgba(215, 239, 247,0.4);
     padding-bottom: 80px;
 
@@ -38,8 +53,8 @@
 
 .bloq2{
 
-    width: 800px;
-    height: 460px;
+    width: 600px;
+    height: 50px;
     
     padding-bottom: 80px;
 
@@ -49,11 +64,24 @@
 
 .bloq3{
 
-    width: 500px;
-    height: 460px;
+    width: 300px;
+    height: 50px;
     background-color: rgba(215, 239, 247,0.4);
     padding-bottom: 80px;
+   
+    font-size: 13px;
+    text-align: justify;
+    line-height: 30px;
+   
+}
 
+
+h2{
+    color: blue;
+    padding-bottom: 20px;
+    line-height: 30px;
+
+    
 }
 
 
@@ -62,6 +90,16 @@
     width: 300px;    
 }
 
+.tablet{
+
+    width: 270px; 
+    padding-top: 30px ;
+}
+
+
+
+
+
 .div1{
 
     text-align: center;
@@ -69,17 +107,51 @@
     
 }
 
+
+.div2{
+
+    text-align: center;
+}
+
 .precio{
 
-    border-radius: 20% ;
+    border-radius: 101px 101px 101px 101px;
+    -moz-border-radius: 101px 101px 101px 101px;
+    -webkit-border-radius: 101px 101px 101px 101px;
+    border: 0px solid #000000;
     background-color: red;
     color: white;
     text-align: center;
     padding: 10px;
-    width: 80px;
-    height: 30px;
-    margin-left: 280px;
+    padding-top: 20px;
+    width: 150px;
+    height: 45px;
+    margin-left: 150px;
+    margin-top: 50px;
+    font-size: 30px;
+}
+.registrar{
+
+     border-radius: 101px 101px 101px 101px;
+    -moz-border-radius: 101px 101px 101px 101px;
+    -webkit-border-radius: 101px 101px 101px 101px;
+     border: 0px solid #000000;
+    background-color:rgb(119, 197, 119);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    padding-top: 15px;
+    width: 150px;
+    height: 45px;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-size: 30px;
+
+
+
 
 
 
 }
+
+
